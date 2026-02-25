@@ -84,8 +84,3 @@ Acknowledgement
 Parts of the descriptor workflow adapt the open-source PaDEL integration by Data Professor (MIT License), with modifications for structured QSAR modelling.
 
 This repository represents a complete, reproducible QSAR modelling framework suitable for academic and research applications.
-
-
----
-
-If you want, I can also give you a very sharp 5–6 line “minimal elite” version suitable for a highly technical portfolio.

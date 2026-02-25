@@ -17,30 +17,6 @@ The notebooks are modular and executed sequentially to ensure transparency and r
 
 ---
 
-## Repository Structure
-
-
-qsar-and-ml-workflow/
-│
-├── README.md
-├── requirements.txt
-│
-├── data/
-│ ├── raw/
-│ └── processed/
-│
-├── config/ # PaDEL fingerprint XML files
-├── figures/ # Exported validation plots
-│
-└── notebooks/
-├── 01_Analogue_Library_Preparation.ipynb
-├── 02_Bioactivity_Data_Curation.ipynb
-├── 03_Descriptor_Generation.ipynb
-└── 04_QSAR_Model_Development.ipynb
-
-
----
-
 ## Validation Strategy
 
 Model performance is evaluated using:
